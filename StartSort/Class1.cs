@@ -4,6 +4,12 @@ namespace StartSort
 {
     public class Class1
     {
-        Console.ReadKey();//che
+        public void Hola() 
+        {
+
+            Console.ReadLine(); //che boludo
+            Console.WriteLine("Hi");
+        }
+        
     }
 }
